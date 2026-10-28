@@ -176,14 +176,3 @@ berikutnya: \[isi rencana realistis\]
     terjadi.
 
 ------------------------------------------------------------------------
-
-## Checklist Sebelum Pengumpulan
-
--   [ ] Nama, kelas, dan identitas sekolah sudah benar.
--   [ ] Prompt yang dicantumkan sesuai dengan penggunaan AI selama
-    proyek.
--   [ ] Setiap tahap memiliki catatan validasi dan modifikasi mandiri.
--   [ ] Hasil pengujian diisi berdasarkan pengujian nyata.
--   [ ] Refleksi pribadi ditulis dengan kata-kata sendiri.
--   [ ] File disimpan di direktori utama (*root*) repositori GitHub
-    dengan nama persis `AI_LOGBOOK.md`.
